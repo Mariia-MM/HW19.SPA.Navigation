@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HW19.SPA.Navigation/static/css/main.5f361e03.chunk.css",
+    "main.js": "/HW19.SPA.Navigation/static/js/main.3af6feba.chunk.js",
+    "main.js.map": "/HW19.SPA.Navigation/static/js/main.3af6feba.chunk.js.map",
+    "runtime-main.js": "/HW19.SPA.Navigation/static/js/runtime-main.a25cb9bd.js",
+    "runtime-main.js.map": "/HW19.SPA.Navigation/static/js/runtime-main.a25cb9bd.js.map",
+    "static/js/2.575bf167.chunk.js": "/HW19.SPA.Navigation/static/js/2.575bf167.chunk.js",
+    "static/js/2.575bf167.chunk.js.map": "/HW19.SPA.Navigation/static/js/2.575bf167.chunk.js.map",
+    "index.html": "/HW19.SPA.Navigation/index.html",
+    "precache-manifest.4a567c4fb9075c7b1657aad19bc1365d.js": "/HW19.SPA.Navigation/precache-manifest.4a567c4fb9075c7b1657aad19bc1365d.js",
+    "service-worker.js": "/HW19.SPA.Navigation/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/HW19.SPA.Navigation/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.575bf167.chunk.js.LICENSE.txt": "/HW19.SPA.Navigation/static/js/2.575bf167.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a25cb9bd.js",
+    "static/js/2.575bf167.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3af6feba.chunk.js"
+  ]
+}
