@@ -47,8 +47,8 @@ function App() {
                 path={path}
                 exact={exact} 
                 component = {Component} />
-              ))}        
-          <Route path="/" exact render={() => <Redirect to="/homepage"/>}/>
+              ))}
+          <Route path="/" render={() => <Redirect to="/homepage"/>}/>
         </Switch>
       </div>
    
