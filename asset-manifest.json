@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/HW19.SPA.Navigation/static/css/main.78706534.chunk.css",
-    "main.js": "/HW19.SPA.Navigation/static/js/main.07d88a0b.chunk.js",
-    "main.js.map": "/HW19.SPA.Navigation/static/js/main.07d88a0b.chunk.js.map",
+    "main.js": "/HW19.SPA.Navigation/static/js/main.38564a2b.chunk.js",
+    "main.js.map": "/HW19.SPA.Navigation/static/js/main.38564a2b.chunk.js.map",
     "runtime-main.js": "/HW19.SPA.Navigation/static/js/runtime-main.a25cb9bd.js",
     "runtime-main.js.map": "/HW19.SPA.Navigation/static/js/runtime-main.a25cb9bd.js.map",
     "static/js/2.2030b826.chunk.js": "/HW19.SPA.Navigation/static/js/2.2030b826.chunk.js",
     "static/js/2.2030b826.chunk.js.map": "/HW19.SPA.Navigation/static/js/2.2030b826.chunk.js.map",
     "index.html": "/HW19.SPA.Navigation/index.html",
-    "precache-manifest.0b3dc3f67c59acd1c1881e00ada597d9.js": "/HW19.SPA.Navigation/precache-manifest.0b3dc3f67c59acd1c1881e00ada597d9.js",
+    "precache-manifest.a4825fe28378326c4d29f772a3a38530.js": "/HW19.SPA.Navigation/precache-manifest.a4825fe28378326c4d29f772a3a38530.js",
     "service-worker.js": "/HW19.SPA.Navigation/service-worker.js",
     "static/css/main.78706534.chunk.css.map": "/HW19.SPA.Navigation/static/css/main.78706534.chunk.css.map",
     "static/js/2.2030b826.chunk.js.LICENSE.txt": "/HW19.SPA.Navigation/static/js/2.2030b826.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a25cb9bd.js",
     "static/js/2.2030b826.chunk.js",
     "static/css/main.78706534.chunk.css",
-    "static/js/main.07d88a0b.chunk.js"
+    "static/js/main.38564a2b.chunk.js"
   ]
 }
